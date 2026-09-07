@@ -2,11 +2,11 @@
     "spider": "https://raw.githubusercontent.com/ls125781003/tbapi1/refs/heads/main/WEX/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-    "notice": "🌷🥝[CKS2026JJ]0903-A🥝🌷",
+    "notice": "🌷🥝[CKS2026JJ]0907🥝🌷",
     "sites": [
         {
             "key": "Douban",
-            "name": "✨豆瓣✨|0903-A更新",
+            "name": "✨豆瓣✨|0907更新",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
